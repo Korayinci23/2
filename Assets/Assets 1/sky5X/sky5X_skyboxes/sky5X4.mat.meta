@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 757430045be100d49a99f0de4a610f9b
+labels:
+- skybox
+- skycube
+- sky
+- sky5X
+- free
+- night
+- space
+- atmosphere
+- day
+- dusk
+- sunset
+- sunrise
+- dawn
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
